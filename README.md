@@ -5,5 +5,5 @@
 >>> web_base91.decode('G5~+\xf3WMCX\xa3f\xa3JQmL^D9K')
 bytearray(b"It\'s a sunny day")
 
-Please note that it only works from python 2.2 to any version older than 3.0 . Does not support any version newer than 3.0
+Please note that it only works from python 2.2 to 2.7.x . Does not support 3.0 or newer
 </pre>
