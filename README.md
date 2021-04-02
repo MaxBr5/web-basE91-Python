@@ -1,5 +1,6 @@
 # web-basE91-Python
 <pre>
+<i>DISCLAMER This is just a silly little project of mine. An SLP.</i>
 >>> web_base91.encode("It's a sunny day")
 'G5~+\xf3WMCX\xa3f\xa3JQmL^D9K'
 >>> web_base91.decode('G5~+\xf3WMCX\xa3f\xa3JQmL^D9K')
